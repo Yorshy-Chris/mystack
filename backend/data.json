@@ -1,13 +1,13 @@
 {
   "devs": [
     {
-      "name": "Holga Kilgore",
+      "name": "Ian smith",
       "links": {
-        "github": "https://github.com/johndoe",
-        "linkedin": "https://www.linkedin.com/in/johndoe",
-        "twitter": "https://twitter.com/johndoe"
+        "github": "https://github.com/smith",
+        "linkedin": "https://www.linkedin.com/in/smith",
+        "twitter": "https://twitter.com/smith"
       },
-      "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "epic": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 1
     },
     {
