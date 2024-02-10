@@ -31,6 +31,16 @@
       "id": 322
     },
     {
+      "name": "Alice Johnson",
+      "links": {
+        "github": "https://github.com/alicejohnson",
+        "linkedin": "https://www.linkedin.com/in/alicejohnson",
+        "twitter": "https://twitter.com/alicejohnson"
+      },
+      "stack": ["Java", "Spring Boot", "MySQL", "AWS"],
+      "id": 322
+    },
+    {
       "name": "Sherlock Holmes",
       "links": {
         "github": "https://github.com/sholmes",
@@ -41,10 +51,10 @@
       "id": 21
     }
        {
-      "name": "Frankline Kimtai",
+      "name": "Ian smith",
       "links": {
         "github": "https://github.com/kimtai1",
-        "linkedin": "https://www.linkedin.com/in/Frankline Kimtai",
+        "linkedin": "https://www.linkedin.com/in/ian smith",
         "twitter": "https://twitter.com/franklineL15777"
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
